@@ -15,7 +15,7 @@
   <li class="list-group-item">Qamar doesn't care who gets credit. Qamar just wants to win.</li>
   <li class="list-group-item">Qamar has Big Ideas.</li>
   <li class="list-group-item">Lots of people have Bid Ideas. Execution is what matters, and Qamar does execution.</li>
-  <li class="list-group-item">Vestibulum at eros</li>
+  <li class="list-group-item">If Qamar's left and right brain were hands, he'd be ambidextrous.</li>
   <li class="list-group-item">Vestibulum at eros</li>
   <li class="list-group-item">Vestibulum at eros</li>
 </ul>
