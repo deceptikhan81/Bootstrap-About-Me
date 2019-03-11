@@ -23,7 +23,7 @@
     <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">About Me
-    <p class="lead">Qamar is a full stack developer. When he says full stack, he means full stack of Pringles. And when he says develper, he means someon that can eat that. Qamar's passion is to help businesses get their messages out clearly, consisly and accurately.</p>
+    <p class="lead">Qamar is a full stack developer. When he says full stack, he means full stack of Pringles. And when he says develper, he means someon that can eat that. Qamar's passion is to help businesses get their messages out clearly, consisely and accurately.</p>
   </div>
 </div>
 </body>
