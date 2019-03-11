@@ -14,7 +14,9 @@
   <li class="list-group-item">Qamar is a full stack developer. When he says full stack, he means full stack of Pringles. And when he says developer, he means someone that can eat that. Qamar's passion is to help businesses get their messages out clearly, consisely and accurately.</li>
   <li class="list-group-item">Qamar doesn't care who gets credit. Qamar just wants to win.</li>
   <li class="list-group-item">Qamar has Big Ideas.</li>
-  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Lots of people have Bid Ideas. Execution is what matters, and Qamar does execution.</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+  <li class="list-group-item">Vestibulum at eros</li>
   <li class="list-group-item">Vestibulum at eros</li>
 </ul>
 </div>
