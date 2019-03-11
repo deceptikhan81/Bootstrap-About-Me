@@ -22,8 +22,8 @@
 <body>
     <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4">About Me /h1>
-    <p class="lead">Qamar is a full stack developer. </p>
+    <h1 class="display-4">About Me
+    <p class="lead">Qamar is a full stack developer. When he says full stack, he means full stck of Pringles.</p>
   </div>
 </div>
 </body>
