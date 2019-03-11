@@ -11,7 +11,7 @@
         <div class="page-header">
             <h1>About Me</h1>
      <ul class="list-group">
-  <li class="list-group-item">Full stack developer</li>
+  <li class="list-group-item">Qamar is a full stack developer. When he says full stack, he means full stack of Pringles. And when he says developer, he means someone that can eat that. Qamar's passion is to help businesses get their messages out clearly, consisely and accurately.</li>
   <li class="list-group-item">Dapibus ac facilisis in</li>
   <li class="list-group-item">Morbi leo risus</li>
   <li class="list-group-item">Porta ac consectetur ac</li>
