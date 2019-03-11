@@ -7,7 +7,11 @@
 <body>
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
+        <div class="page-header">
+            <h1>About Me</h1>
+        </div>
+    </div>
       One of three columns
     </div>
     <div class="col-sm">
